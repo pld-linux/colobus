@@ -9,6 +9,7 @@ Release:	1
 License:	MIT/X
 Group:		Networking/Daemons
 Source0:	http://trainedmonkey.com/colobus/%{name}-%{version}.tar.gz
+# Source0-md5:	f0655a973b75139d12f68df305a960ad
 URL:		http://trainedmonkey.com/colobus/
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
