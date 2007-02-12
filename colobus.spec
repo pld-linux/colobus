@@ -2,7 +2,7 @@
 # - finish spec
 # - rc-inetd support
 Summary:	NNTP server for ezmlm mailing list archives
-Summary(pl.UTF-8):   Serwer NNTP dla archiwów list mailowych ezmlm
+Summary(pl.UTF-8):	Serwer NNTP dla archiwów list mailowych ezmlm
 Name:		colobus
 Version:	2.1
 Release:	1
