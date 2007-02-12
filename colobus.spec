@@ -2,7 +2,7 @@
 # - finish spec
 # - rc-inetd support
 Summary:	NNTP server for ezmlm mailing list archives
-Summary(pl):	Serwer NNTP dla archiwów list mailowych ezmlm
+Summary(pl.UTF-8):   Serwer NNTP dla archiwÃ³w list mailowych ezmlm
 Name:		colobus
 Version:	2.1
 Release:	1
@@ -19,10 +19,10 @@ colobus is an NNTP server written in Perl for ezmlm mailing list
 archives. It is used by news.php.net and nntp.perl.org to provide
 access to the PHP and Perl mailing lists via news clients.
 
-%description -l pl
-colobus to napisany w Perlu serwer NNTP dla archiwów list mailowych
-ezmlm. Jest u¿ywany przez news.php.net oraz nntp.perl.org, aby
-umo¿liwiæ dostêp do list mailowych PHP i Perla z poziomu klientów
+%description -l pl.UTF-8
+colobus to napisany w Perlu serwer NNTP dla archiwÃ³w list mailowych
+ezmlm. Jest uÅ¼ywany przez news.php.net oraz nntp.perl.org, aby
+umoÅ¼liwiÄ‡ dostÄ™p do list mailowych PHP i Perla z poziomu klientÃ³w
 news.
 
 %prep
