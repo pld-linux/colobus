@@ -2,7 +2,6 @@
 # - finish spec
 # - rc-inetd / daemontools support
 # - run as news uid
-%include	/usr/lib/rpm/macros.perl
 Summary:	NNTP server for ezmlm mailing list archives
 Summary(pl.UTF-8):	Serwer NNTP dla archiwów list mailowych ezmlm
 Name:		colobus
